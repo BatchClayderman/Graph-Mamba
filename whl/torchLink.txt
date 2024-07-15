@@ -1,2 +1,4 @@
-https://download.pytorch.org/whl/torch_stable.html
-https://pytorch-geometric.com/whl/torch-2.0.0+cu117.html
+CUDA：https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
+CUDNN：https://developer.nvidia.cn/rdp/cudnn-archive
+Torch：https://download.pytorch.org/whl/torch_stable.html
+Torch Geometric 系列：https://pytorch-geometric.com/whl/torch-2.0.0+cu117.html
